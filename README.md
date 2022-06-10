@@ -1,9 +1,9 @@
 # Axigenio Pixel #
-**Contributors:** AGX Lda
-**Tags:** code, javascript, css, template
-**Requires at least:** 3.3.2
-**Tested up to:** 6.0
-**License:** GPLv3
+**Contributors:** AGX Lda<br>
+**Tags:** code, javascript, css, template<br>
+**Requires at least:** 3.3.2<br>
+**Tested up to:** 6.0<br>
+**License:** GPLv3<br>
 **License URI:** http://www.gnu.org/licenses/gpl-3.0.html
 
 Add Axigenio Pixel to your WordPress site without editing the template.
